@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://github.com/Gelzieny/nlw-agents-init/blob/main/assets/logo.png?raw=true"  alt="Logo esport NLW" width="200"/>
+    <img src="https://github.com/Gelzieny/nlw-agents-init/blob/main/src/assets/logo.png?raw=true"  alt="Logo esport NLW" width="200"/>
   </a>
 </p>
 <p align="center">Projeto desenvolvido durante o Next Level Week da Rocketseat</p>
