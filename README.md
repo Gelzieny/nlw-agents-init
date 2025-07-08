@@ -26,11 +26,7 @@ Esta trilha é ideal para quem está começando. O projeto consiste na criação
 
 ## 📝 Documentação
 
-A documentação do projeto está disponível no [Notion](<https://efficient-sloth-d85.notion.site/NLW-Agents-Guia-do-evento-21b395da57708061b24cc1aa48c0fb3a>)
-
-## 🎨 Layout
-
-O layout da aplicação está disponível no [Figma](<https://www.figma.com/design/0Hmz2mBHCHIDBnQW4XGraD/NLW-Pocket-JS-%E2%80%A2-in.orbit-(Community)-(Copy)>)
+A documentação do projeto está disponível no [Notion](<https://efficient-sloth-d85.notion.site/Trilha-Iniciante-21b395da577080148da9cdf85b97af71>)
 
 
 ## 🚀 Como executar o projeto

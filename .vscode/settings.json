@@ -1,5 +1,5 @@
 {
-  // "editor.formatOnSave": true,
+  "editor.formatOnSave": true,
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.profiles.windows": {
     "Git Bash": {
